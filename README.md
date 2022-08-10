@@ -1,9 +1,9 @@
 required dependencies:
 
-    - radamsa
+    - [radamsa](https://gitlab.com/akihe/radamsa)
     - yarn
     - diff
-    - delta
+    - [delta](https://web.archive.org/web/20170805142100/delta.tigris.org/)
 
 clone the `prettier-plugin-astro` repo next to this repo so that we can access fixtures in `../prettier-plugin-astro/tests/fixtures...`
 
