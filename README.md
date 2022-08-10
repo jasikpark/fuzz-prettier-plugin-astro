@@ -5,6 +5,8 @@ required dependencies:
     - diff
     - delta
 
+clone the `prettier-plugin-astro` repo next to this repo so that we can access fixtures in `../prettier-plugin-astro/tests/fixtures...`
+
 make sure prettier and prettier-plugin-astro are up-to-date
 
 run `./fuzz-prettier-plugin-astro.sh` until you get a crash
