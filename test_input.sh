@@ -19,3 +19,4 @@ if [ $? -eq 1 ]; then
     echo "Difference found!"
     exit 1
 fi
+echo "No difference found"
