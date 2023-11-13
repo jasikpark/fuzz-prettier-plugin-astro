@@ -1,3 +1,8 @@
+# deprecated, replaced by https://github.com/jasikpark/fuzz-prettier
+
+I do need to add the `use unit tests as corpus` feature though.
+
+
 required dependencies:
 
 - [radamsa](https://gitlab.com/akihe/radamsa)
